@@ -6,4 +6,4 @@ Problem statements
 # Link: https://github.com/pratikshakj/KudosWall-Assignment/blob/main/Problem%202/Problemstatement2.ipynb
 # 3. Write a function that rotates an array by k elements. For example, [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the array.
 # 4. Write a function to alternate the case of the characters in the string; i.e., each lowercase letter becomes uppercase and each uppercase letter becomes lowercase. For example, altERnaTIng cAsE becomes ALTerNAtiNG CaSe
-# Link: https://github.com/pratikshakj/KudosWall-Assignment/blob/main/Problem%202/Problemstatement4.ipynb
+# Link: https://github.com/pratikshakj/KudosWall-Assignment/blob/main/Problem%204/Problemstatemet4.ipynb
